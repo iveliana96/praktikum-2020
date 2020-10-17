@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-container {
+    background-color: rgb(255, 255, 255);
+}
+
+.content-container {
+    background-color: rgb(248, 244, 244);
+}
+
+.logo-icon{
+    font-size: 3rem;
+}
+
+.header-count {
+    font-size: 2rem;
+}
+
+.header-text {
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+.description {
+    min-height: 5rem;
+}
